@@ -14,7 +14,7 @@ CREATE TABLE cliente
   direccion               VARCHAR(100),
   ciudad                  VARCHAR(50),
   provincia               VARCHAR(50),
-  país                    VARCHAR(50),
+  pais                    VARCHAR(50),
   codigo_postal           VARCHAR(20),
   historial_crediticio    VARCHAR(9),
   ventas_rep_id           VARCHAR(3),
